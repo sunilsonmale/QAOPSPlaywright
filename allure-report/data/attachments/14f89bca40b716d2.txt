@@ -1,0 +1,20 @@
+Let's Shop
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+i= 0 ADIDAS ORIGINAL
+truptisonmale@gmail.com
+suggestionCount 2
+outside if 0
+ British Indian Ocean Territory
+outside if 1
+ India
+inside :: 1
+ | 69d388fff86ba51a654b1d82 | 
+69d388fff86ba51a654b1d82
+ table :: 69d388fff86ba51a654b1d82
+saved 69d388fff86ba51a654b1d82
+true
+inside if loop no :: 0
+true
+true
+true
+true
